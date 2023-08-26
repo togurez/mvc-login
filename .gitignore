@@ -1,0 +1,33 @@
+dependency-reduced-pom.xml
+.settings
+
+# Intellij
+.idea/
+*.iml
+*.iws
+.project
+.classpath
+.gradle
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+out/
+ajo-campaigns-common/target/
+ajo-campaigns-rest/target/
+ajo-campaigns-workflow/target/
+
+*.bz2
+
+bundles/
+bin/
+
+*.prefs
+
+*.log
+.secret-env-*
+agent.zip
+agent/
